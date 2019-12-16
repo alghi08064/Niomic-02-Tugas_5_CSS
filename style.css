@@ -1,0 +1,32 @@
+.menu{
+  color: white;
+  font-size: 105%;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: "Times New Roman";
+}
+
+.div_menu{
+  background-color: black;
+}
+
+.slider-div{
+  text-align: center;
+}
+
+p{
+  text-align: justify;
+}
+
+footer{
+  background-color: black;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+
+.footer{
+  font-size: 110%;
+}
